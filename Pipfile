@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-lxml = "4.8.0"
+lxml = "6.1.3"
 requests = "2.34.2"
 Levenshtein = "0.18.1"
 
